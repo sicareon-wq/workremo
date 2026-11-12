@@ -18,6 +18,6 @@ One-pager **HTML5 murni** (tanpa framework/CDN): panduan interaktif freelance re
 
 ## Status
 - [x] M1 — PRD
-- [ ] M2 — Kerangka HTML5 + konten statis
-- [ ] M3 — Motion & alur
-- [ ] M4 — Polish responsif + aksesibilitas
+- [x] M2 — Kerangka HTML5 + konten statis
+- [x] M3 — Motion & alur
+- [x] M4 — Polish responsif + aksesibilitas
